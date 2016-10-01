@@ -1,0 +1,1 @@
+![Верстка LESS(CSS3)](https://github.com/DenysSidorov/verstThirdPointSlider/raw/master/img/third.jpg)
